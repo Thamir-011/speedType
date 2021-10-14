@@ -1,0 +1,15 @@
+.textWidget {
+    padding: 7px;
+    border-radius: 7px;
+    line-height: 25px;
+    background: rgb(230, 230, 230);
+}
+
+.letter {
+    padding-left: 1px;
+    font-size: 17px;
+}
+
+.space {
+    padding-left: 7px;
+}
